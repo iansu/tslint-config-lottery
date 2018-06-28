@@ -1,0 +1,17 @@
+{
+  "name": "tslint-config-lottery",
+  "version": "1.0.0",
+  "description": "Shared TSLint config",
+  "author": "Lottery.com Engineering <engineering@lottery.com>",
+  "private": true,
+  "main": "config-base.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/autolotto/tslint-config-lottery.git"
+  },
+  "dependencies": {
+    "tslint": "^5.10.0",
+    "tslint-config-prettier": "^1.13.0",
+    "typescript": "^2.9.2"
+  }
+}
