@@ -42,6 +42,8 @@ Add `.prettierrc` to project root:
 }
 ```
 
+Optional: If there are any files you want to exclude from Prettier add `.prettierignore` to project root.
+
 ### Add Editorconfig File
 
 Recommended: Add `.editorconfig` to project root:
@@ -74,8 +76,8 @@ Add scripts for linting and formatting to `package.json`:
 scripts: {
   "precommit": "lint-staged",
   "lint": "tslint -p tsconfig.json -c tslint.json",
-  "format": "prettier --write \"**/*.{ts,js,json,graphql}\"",
-  "format-check": "prettier --debug-check \"**/*.{ts,js,json,graphql}\"",
+  "format:all": "prettier --write \"**/*.{ts,js,json,graphql}\"",
+  "format:check": "prettier --debug-check \"**/*.{ts,js,json,graphql}\"",
 }
 ```
 
