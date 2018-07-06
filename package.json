@@ -9,9 +9,12 @@
     "type": "git",
     "url": "https://github.com/autolotto/tslint-config-lottery.git"
   },
-  "dependencies": {
+  "peerDependencies": {
+    "prettier": "1.13.5",
     "tslint": "^5.10.0",
-    "tslint-config-prettier": "^1.13.0",
     "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "tslint-config-prettier": "^1.13.0"
   }
 }
