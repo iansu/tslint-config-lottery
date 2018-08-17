@@ -7,6 +7,8 @@
     "jsx-no-lambda": true,
     "jsx-no-string-ref": true,
     "jsx-self-close": true,
-    "no-empty": [true, "allow-empty-catch"]
+    "no-empty": [true, "allow-empty-catch"],
+    "no-inferred-empty-object-type": false,
+    "prefer-readonly": false
   }
 }
