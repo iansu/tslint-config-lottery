@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-lottery",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared TSLint config",
   "author": "Lottery.com Engineering <engineering@lottery.com>",
   "private": true,
