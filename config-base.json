@@ -36,7 +36,6 @@
     "no-unnecessary-qualifier": true,
     "no-unnecessary-type-assertion": true,
     "no-unused-expression": [true, "allow-fast-null-checks"],
-    "no-unused-variable": { "severity": "warning" },
     "number-literal-format": true,
     "prefer-conditional-expression": [true, "check-else-if"],
     "prefer-method-signature": true,
