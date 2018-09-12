@@ -7,7 +7,7 @@ This is the official TSLint config for Lottery.com. Includes configs for fronten
 ### Install Package
 
 ```sh
-yarn add git+https://github.com/autolotto/tslint-config-lottery.git
+yarn add --dev tslint-config-lottery
 ```
 
 ### Install Peer Dependencies
