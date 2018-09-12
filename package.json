@@ -5,6 +5,7 @@
   "author": "Lottery.com Engineering <engineering@lottery.com>",
   "private": true,
   "main": "config-base.json",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/autolotto/tslint-config-lottery.git"
