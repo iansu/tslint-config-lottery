@@ -16,10 +16,9 @@
   },
   "dependencies": {
     "tslint-config-prettier": "^1.13.0",
+    "tslint-config-security": "^1.5.0",
     "tslint-eslint-rules": "5.4.0",
     "tslint-react": "3.6.0"
   },
-  "devDependencies": {
-    "tslint-config-security": "^1.5.0"
-  }
+  "devDependencies": {}
 }
