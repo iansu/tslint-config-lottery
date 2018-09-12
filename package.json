@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "Shared TSLint config",
   "author": "Lottery.com Engineering <engineering@lottery.com>",
-  "private": true,
+  "private": false,
   "main": "config-base.json",
   "license": "MIT",
   "repository": {
